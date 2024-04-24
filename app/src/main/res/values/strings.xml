@@ -8,14 +8,77 @@
     <string name="action_settings">Settings</string>
 
     <string name="menu_home">Simple Lemon Cake</string>
-    <string name="recipe_Lemon">    Preheat oven to 350°F (177°C). Grease a 9x5-inch (or 8x4-inch) loaf pan (see note).
-    In a medium bowl combine the flour, baking powder, lemon zest, and salt. Set aside.
-    In the bowl of a stand mixer fitted with the paddle attachment (or using an electric mixer), cream the butter and sugar together at medium-high speed until pale and fluffy, about 4-6 minutes. Scrape the sides of the bowl as needed.
-    With the mixer running on low-speed, add the eggs one at a time, then beat in the vanilla extract and lemon juice. Beat on medium-high speed until combined.
-    With the mixer on low, add about one-third of the flour mixture and mix until almost combined, then add half the buttermilk and mix until just combined. Repeat with another third of flour mixture and then the last half of the buttermilk, ending with the last third of the flour. Beat until just incorporated.
-    Scrape the batter into the prepared loaf pan and bake for 45-55 minutes until the cake is golden brown and a toothpick comes out mostly clean with only a couple moist crumbs. Baking times vary, so keep an eye on yours.
-    Let the cake cool for about 15 minutes in the pan. Stir together the lemon juice and confectioners’ sugar for the lemon syrup. Carefully invert the loaf pan, and transfer the cake to a cooling rack, then brush the syrup on the cake while it’s still warm. Allow cake to cool completely.
-    When the cake is cooled, combine all the icing ingredients, start with 1 tbsp lemon juice and milk and add the remaining lemon juice as needed. The icing should be thick and not runny. Pour icing over cake and let dry before serving.</string>
+    <string name="recipe_Lemon">    Preheat oven to 350°F (177°C). Grease a 9x5-inch (or 8x4-inch) loaf pan.\n
+
+    In a medium bowl combine the flour, baking powder, lemon zest, and salt. Set aside.\n
+
+    In the bowl of a stand mixer fitted with the paddle attachment (or using an electric mixer), cream the butter and sugar together at medium-high speed until pale and fluffy, about 4-6 minutes. Scrape the sides of the bowl as needed.\n
+    With the mixer running on low-speed, add the eggs one at a time, then beat in the vanilla extract and lemon juice. Beat on medium-high speed until combined.\n
+
+    With the mixer on low, add about one-third of the flour mixture and mix until almost combined, then add half the buttermilk and mix until just combined. Repeat with another third of flour mixture and then the last half of the buttermilk, ending with the last third of the flour. Beat until just incorporated.\n
+    Scrape the batter into the prepared loaf pan and bake for 45-55 minutes until the cake is golden brown and a toothpick comes out mostly clean with only a couple moist crumbs. Baking times vary, so keep an eye on yours.\n
+    Let the cake cool for about 15 minutes in the pan. Stir together the lemon juice and confectioners’ sugar for the lemon syrup. Carefully invert the loaf pan, and transfer the cake to a cooling rack, then brush the syrup on the cake while it’s still warm. Allow cake to cool completely.\n
+    When the cake is cooled, combine all the icing ingredients, start with 1 tbsp lemon juice and milk and add the remaining lemon juice as needed. The icing should be thick and not runny. Pour icing over cake and let dry before serving.\n</string>
+    <string name="lemon_Ing">For the lemon pound cake:\n
+
+    ▢ 1 1/2 cups all-purpose flour\n
+    ▢ 1 1/2 tsp baking powder\n
+    ▢ 1 Tbsp lemon zest\n
+    ▢ 1/2 tsp salt\n
+    ▢ 1/2 cup unsalted butter, room temperature\n
+    ▢ 1 cup granulated sugar\n
+    ▢ 2 large eggs, room temperature\n
+    ▢ 1 tsp vanilla extract\n
+    ▢ 2 Tbsp lemon juice, about 1/2 lemon\n
+    ▢ 1/2 cup buttermilk, see below for substitution\n
+For the lemon syrup:\n
+    ▢ 1/4 cup lemon juice, about 1 lemon\n
+    ▢ 3 Tbsp powdered sugar\n
+For the lemon icing:\n
+    ▢ 1 cup powdered sugar, sifted\n
+    ▢ 1.5 Tbsp lemon juice\n
+    ▢ 1 Tbsp milk</string>
+    <string name="lemon_quote">https://platedcravings.com/moist-lemon-cake-recipe/</string>
+    <string name="LemonName">Moist Lemon Cake</string>
     <string name="menu_gallery">Easy To Make Chicken</string>
+    <string name="ChickenName">Last Minute Easy Chicken</string>
+    <string name="Chicken_quote">https://iwashyoudry.com/last-minute-chicken-recipe/</string>
+    <string name="Chicken_Ing">    ▢ 2 tsp garlic powder\n
+    ▢ 1 1/2 tsp onion powder\n
+    ▢ 2 tsp paprika OR smoked paprika\n
+    ▢ 2 tsp dried oregano\n
+    ▢ 1 1/2 tsp black pepper\n
+    ▢ 1 tsp salt\n
+    ▢ 3 lbs. boneless skinless chicken thighs\n
+    ▢ 1 tbsp olive oil\n
+    ▢ 2 tbsp fresh cilantro, chopped (optional)\n</string>
+    <string name="Chicken_recipe">    Combine the garlic, onion, paprika, oregano, pepper and salt in a small bowl. Sprinkle half the spices over the chicken. Turn the chicken pieces over and sprinkle the remaining spices over them. Rub the spices into the chicken, if needed, to coat well.\n
+
+Grill Pan Directions:\n
+
+    Heat a nonstick grill pan over medium heat. Drizzle with the olive oil. Place half the chicken in the grill pan, making sure there is a gap between the pieces. Cook the chicken without touching it for 5 minutes. Flip the pieces over and cook for 3 to 5 minutes until they’re cooked through. Repeat with remaining chicken.\n
+
+Broiling Directions:\n
+
+    Preheat oven to broil.\n
+    Place an oven rack 6 inches from the top of the oven. Put a wire rack over a large baking tray and arrange the chicken on the wire rack. Place the chicken in the oven and broil for 6 minutes. Remove the chicken from the oven, turn each piece of chicken over, and then broil for 5 to 6 minutes.\n
+    Let the cooked chicken rest for 5 minutes before serving. Sprinkle the pieces with cilantro, if desired.\n</string>
+    <string name="OnePotName">One Pot Bacon Broccoli Mac And Cheese</string>
+    <string name="OnePot_quote">https://www.budgetbytes.com/one-pot-bacon-broccoli-mac-cheese/</string>
+    <string name="Mac_Ing">    ▢ 1/2 lb. frozen broccoli florets\n
+    ▢ 4 oz. bacon\n
+    ▢ 8 oz. medium cheddar\n
+    ▢ 1/2 lb. pasta\n
+    ▢ 1 cup evaporated milk\n
+    ▢ 1/2 tsp smoked paprika\n
+    ▢ 1/2 tsp hot sauce\n
+    ▢ 1/2 tsp Dijon mustard\n
+    ▢ 1/4 tsp salt\n</string>
+    <string name="Mac_recipe">    Prepare the ingredients before beginning because the process goes quickly once it’s begun. Thaw the broccoli florets and chop them into small bite-sized pieces. Slice the bacon into small pieces. Shred the cheddar cheese.\n
+    Cook the pasta according to the package directions (boil 7-10 minutes, or until al dente). Drain the pasta in a colander and set it aside.\n
+    Return the pot to the stove, add the bacon, and cook over medium to medium-low heat until the bacon is brown and crispy (about 5 minutes). Use a slotted spoon to remove the bacon from the pot, leaving the grease behind.\n
+    Add the evaporated milk, smoked paprika, Dijon, hot sauce, and salt to the pot with the bacon grease. Stir to combine and allow it to heat through (it should heat quickly as the pot will be very hot from cooking the bacon).\n
+    Once the evaporated milk is hot, turn the heat to low and begin whisking in the shredded cheddar, one handful at a time, waiting until the cheese is fully melted before adding the next handful. Once all of the cheese has been melted into the sauce, taste the cheese sauce and adjust the salt or hot sauce if desired. If the sauce becomes too thick, simply stir in one to two tablespoons of the remaining evaporated milk in the can.\n
+    Return the cooked pasta, crispy bacon (crumble into smaller pieces if desired), and chopped broccoli to the pot with the cheese sauce. Stir to combine. Serve immediately.\n</string>
     <string name="menu_slideshow">One Pot Meal</string>
 </resources>
